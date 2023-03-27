@@ -15,3 +15,7 @@ Eclipse Shortcuts
 8. Open All short keys -> ctrl+shift+l
 9. Run Junit Test -> Alt+Shift+X, T
 10. Assign statement to new local variable -> ctrl+2, L
+
+#git Ignores
+current directory files - /.project
+inside directory file - *.class
