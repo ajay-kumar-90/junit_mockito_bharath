@@ -1,0 +1,17 @@
+Eclipse Shortcuts
+1. Create a class/Interface in Eclipse - 
+	(i)"ctrl + N" to open the "New" dialog box
+	(ii) Select Class/Interface
+2. Create Implementation/Child Interface/Junit of Interface
+	(i)  the ctrl + O to select the class and methods
+	(ii) ctrl+1 and select
+3. Enable Auto formating on saving
+	(i) Open Preferences - ctrl+shift+J (Bind preferences first using keys in Editing Java Source mode)
+	(ii) Java -> Save Actions -> perform the selected actions on save -> format edited lines
+4. Go to Matching Brackets -> ctrl+shift+P
+5. Maximize the screen -> ctrl+M
+6. Go to start of Class Name or method name -> ctrl+shift+up/down key
+7. Go the line below from its position -> shift+Enter (Very handy to inside method body from metho name)
+8. Open All short keys -> ctrl+shift+l
+9. Run Junit Test -> Alt+Shift+X, T
+10. Assign statement to new local variable -> ctrl+2, L
